@@ -27,5 +27,5 @@ class ContaBancaria {
   }
 }
 
-// Exporta a classe para ser usada em outro arquivo
+
 module.exports = ContaBancaria;
